@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="/news/">Новости</a>
+                    <a href="/news">Новости</a>
                 </div>
             </div>
         </div>
